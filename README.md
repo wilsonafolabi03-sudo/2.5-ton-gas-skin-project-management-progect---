@@ -1,51 +1,32 @@
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
+# 📦 LPG Cooking Gas Business Plan — Project Management Portfolio
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=260&section=header&text=CLEAN%20ENERGY%20DISTRIBUTION%20HUB&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=2.5-Ton%20LPG%20Skid%20Plant%20%7C%20Ikorodu%20Axis%2C%20Lagos&descAlignY=58&descSize=18"/>
+<div align="center">
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B192C,50:1E3E62,100:FF6500&height=220&section=header&text=CLEAN%20ENERGY%20DISTRIBUTION%20HUB&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=2.5-Ton%20LPG%20Skid%20Plant%20%7C%20Ikorodu%20Axis%2C%20Lagos&descAlignY=55&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=800&color=60A5FA&center=true&vCenter=true&width=1000&height=60&lines=Strategic+Launch+Plan+%7C+Funding+Allocation;5-Year+High-Yield+Growth+Blueprint;%E2%82%A620M+Capital+Pool+%7C+105%25+Annual+Gross+ROI;Digital+LPG+Distribution+%7C+Ikorodu+Corridor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6500&center=true&vCenter=true&width=900&lines=Strategic+Launch+Plan+%7C+Funding+Allocation;5-Year+High-Yield+Growth+Blueprint;%E2%82%A620M+Capital+Pool+%7C+105%25+Annual+Gross+ROI;Digital+LPG+Distribution+%7C+Ikorodu+Corridor" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-![Status](https://img.shields.io/badge/Status-Proposal%20Ready-3B82F6?style=for-the-badge&logo=statuspage&logoColor=white)
-![Budget](https://img.shields.io/badge/Budget-%E2%82%A620%2C000%2C000-1E3A8A?style=for-the-badge&logo=cashapp&logoColor=white)
-![ROI](https://img.shields.io/badge/Annual%20Gross%20ROI-105%25-60A5FA?style=for-the-badge&logo=trendmicro&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Ikorodu%2C%20Lagos-0A192F?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Proposal%20Ready-FF6500?style=for-the-badge&logo=statuspage&logoColor=white)
+![Budget](https://img.shields.io/badge/Budget-%E2%82%A620%2C000%2C000-1E3E62?style=for-the-badge&logo=cashapp&logoColor=white)
+![ROI](https://img.shields.io/badge/Annual%20Gross%20ROI-105%25-2EA043?style=for-the-badge&logo=trendmicro&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Ikorodu%2C%20Lagos-0B192C?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Docs](https://img.shields.io/badge/Docs-Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,50:1E3A8A,100:0A192F&height=4&section=header"/>
+---
 
-</td></tr>
-</table>
+## 🚀 Project Overview
 
-<br/>
+> **A targeted commercial infrastructure development project** funded through a structured **₦20,000,000 Commercial Loan** to launch a digitally monitored, highly secure **2.5-Ton LPG (cooking gas) skid station** in the Ikorodu Axis of Lagos, Nigeria.
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td>
+The **Ikorodu Strategic LPG Distribution Hub** bridges the transition gap between traditional polluting fuels and clean energy for thousands of families. High-velocity daily cash flow ensures frictionless loan servicing, zero corporate credit bottlenecks, and a fully optimized small-staff model that preserves high net profits.
 
-<h2 align="center">🚀 Project Overview</h2>
+<div align="center">
 
-<blockquote>
-<p align="center"><b>A targeted commercial infrastructure development project</b> funded through a structured <b>₦20,000,000 Commercial Loan</b> to launch a digitally monitored, highly secure <b>2.5-Ton LPG (cooking gas) skid station</b> in the Ikorodu Axis of Lagos, Nigeria.</p>
-</blockquote>
-
-<p align="center">The <b>Ikorodu Strategic LPG Distribution Hub</b> bridges the transition gap between traditional polluting fuels and clean energy for thousands of families. High-velocity daily cash flow ensures frictionless loan servicing, zero corporate credit bottlenecks, and a fully optimized small-staff model that preserves high net profits.</p>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%" bgcolor="#112240">
-<tr><td align="center">
-
-<h3>💰 Investment Parameters</h3>
+### 💰 Investment Parameters
 
 | Metric | Value |
 |:---|:---|
@@ -56,37 +37,18 @@
 | **Annual Gross ROI (Year 1)** | **105%** |
 | **Net ROI Post-Debt (Year 1)** | **76.2%** |
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td>
-
-<h2 align="center">📁 Repository Structure</h2>
-
-</td></tr>
-</table>
-
-<table width="100%" bgcolor="#112240">
-<tr><td>
+## 📁 Repository Structure
 
 
-</td></tr>
-</table>
+---
 
-<br/>
+## 🔗 Official Project Links (Google Workspace)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🔗 Official Project Links</h2>
-<p><i>Google Workspace — Live Documents</i></p>
+<div align="center">
 
 | Resource | Description | Link |
 |:---|:---|:---:|
@@ -94,58 +56,42 @@
 | 📝 **Proposal / Report** | Full Business Proposal & Debt Servicing Framework | [**Open Doc →**](https://docs.google.com/document/d/1thJuQAEHZfAzpDhF0ivFclLA_Ac6bh82eBKN_oeckT4/edit?usp=drive_link) |
 | 📈 **Budget Breakdown** | Itemized Capital Allocation Spreadsheet | [**Open Sheet →**](https://docs.google.com/spreadsheets/d/1nWiFkW_MyUtsM05GLXE1zNz9Zgvf3ljcs8dYo9Kcx-0/edit?usp=sharing) |
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+## 🎯 Strategic Pillars
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🎯 Strategic Pillars</h2>
-
-</td></tr>
-</table>
-
-<table width="100%" bgcolor="#112240">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>📍 Location: Ikorodu Axis</h3>
-<ul>
-<li><b>Ikorodu Garage, Ijede Road, Ebute, Itamaga</b></li>
-<li>Lagos State's <b>fastest-growing residential district</b></li>
-<li>Exceptionally <b>low market entry costs</b></li>
-<li>New estates emerging monthly → vast demand clusters</li>
-<li>Low lease structures preserve capital for larger 2.5-Ton skid</li>
-</ul>
+### 📍 Location: Ikorodu Axis
+- **Ikorodu Garage, Ijede Road, Ebute, Itamaga**
+- Lagos State's **fastest-growing residential district**
+- Exceptionally **low market entry costs**
+- New estates emerging monthly → vast demand clusters
+- Low lease structures preserve capital for larger 2.5-Ton skid
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-<h3>⚙️ Operational Model</h3>
-<ul>
-<li><b>Digitally monitored</b> LPG skid station</li>
-<li><b>Cash/PoS upfront</b> — zero credit bottlenecks</li>
-<li><b>Lean staff model</b> — operator + security guard</li>
-<li><b>Off-grid solar</b> — 3.5KVA inverter + lithium banks</li>
-<li><b>24/7 CCTV</b> — cloud-connected remote auditing</li>
-</ul>
+### ⚙️ Operational Model
+- **Digitally monitored** LPG skid station
+- **Cash/PoS upfront** — zero credit bottlenecks
+- **Lean staff model** — operator + security guard
+- **Off-grid solar** — 3.5KVA inverter + lithium banks
+- **24/7 CCTV** — cloud-connected remote auditing
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+## 🏗️ Work Breakdown Structure (WBS)
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🏗️ Work Breakdown Structure (WBS)</h2>
+<div align="center">
 
 | Phase | Workstream | Key Deliverables |
 |:---:|:---|:---|
@@ -160,40 +106,20 @@
 | **9.0** | **Licensing & Insurance** | DPR certifications, fire insurance policies activated |
 | **10.0** | **Closeout** | First bulk stock, system run checks, retail opening |
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>💵 Capital Allocation Breakdown</h2>
-
-</td></tr>
-</table>
-
-<table width="100%" bgcolor="#112240">
-<tr><td>
+## 💵 Capital Allocation Breakdown
 
 
-<blockquote>
-<p>🛡️ <b>The ₦5.5M Capital Shield</b> — Locked in liquid high-yield assets to guarantee smooth bank loan repayments and employee wages during setup or seasonal slowdowns.</p>
-</blockquote>
+> **🛡️ The ₦5.5M Capital Shield** — Locked in liquid high-yield assets to guarantee smooth bank loan repayments and employee wages during setup or seasonal slowdowns.
 
-</td></tr>
-</table>
+---
 
-<br/>
+## 📈 Revenue Engine & Margins
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>📈 Revenue Engine & Margins</h2>
+<div align="center">
 
 | Parameter | Value |
 |:---|:---|
@@ -207,17 +133,13 @@
 | **Monthly Net Operating Income** | **₦1,750,000** |
 | **Annualized Gross Revenue** | **₦27,000,000 / year** |
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+## 🏦 Loan Repayment (Reducing Balance Method)
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🏦 Loan Repayment (Reducing Balance Method)</h2>
+<div align="center">
 
 | Parameter | Detail |
 |:---|:---|
@@ -229,56 +151,40 @@
 | **Year 5 Monthly (Final)** | ~₦350,000 |
 | **Net Free Cash Flow (Y1)** | **₦1,266,667 / month** |
 
-<blockquote>
-<p>🛡️ <b>Loan Shield Strategy:</b> The ₦5.5M contingency fund can independently service the bank loan for <b>over 11 consecutive months</b> without personal financial pressure.</p>
-</blockquote>
+</div>
 
-</td></tr>
-</table>
+> **🛡️ Loan Shield Strategy:** The ₦5.5M contingency fund can independently service the bank loan for **over 11 consecutive months** without personal financial pressure.
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+## 🎯 Target Market & Competitive Advantage
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🎯 Target Market & Competitive Advantage</h2>
-
-</td></tr>
-</table>
-
-<table width="100%" bgcolor="#112240">
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%">
 
-<h3>🏠 B2C Target</h3>
-<p>Middle-income residential households and estate families along <b>Ijede</b> and <b>Itamaga</b> roads who value immediate local refueling convenience.</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🏪 B2B Target</h3>
-<p>Suburban bakeries, laundry outfits, commercial catering networks, and roadside restaurants (<b>bukas</b>) consuming high gas volumes daily.</p>
+### 🏠 B2C Target
+Middle-income residential households and estate families along **Ijede** and **Itamaga** roads who value immediate local refueling convenience.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%">
 
-<h3>⭐ Value Attraction</h3>
-<p>Competitors use <b>inaccurate, rusty mechanical scales</b>. Our <b>calibrated digital dispenser</b> provides precise filling and transparent billing — building instant brand trust.</p>
+### 🏪 B2B Target
+Suburban bakeries, laundry outfits, commercial catering networks, and roadside restaurants (**bukas**) consuming high gas volumes daily.
+
+</td>
+<td width="33%">
+
+### ⭐ Value Attraction
+Competitors use **inaccurate, rusty mechanical scales**. Our **calibrated digital dispenser** provides precise filling and transparent billing — building instant brand trust.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🚨 Risk Assessment & Mitigation</h2>
+## 🚨 Risk Assessment & Mitigation
 
 | Risk | Mitigation Strategy |
 |:---|:---|
@@ -287,77 +193,49 @@
 | **Physical Hazard Risks** | Concrete bollards, automated pressure relief valves, daily earthing tests, high-value fire insurance |
 | **Regulatory Fines** | ₦2M allocated for NMDPRA & Fire Service licensing before commercial opening |
 
-</td></tr>
-</table>
+---
 
-<br/>
+## 📌 Strategic Recommendations
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+1. **🛡️ Protect the Contingency Fund** — Never utilize the ₦5.5M buffer for premature expansions or personal expenses.
+2. **💳 Enforce Digital Card Payments Only** — POS/bank transfers exclusively; eliminates cash theft and physical security risks.
+3. **📜 Airtight Long-Term Lease** — Ensure automatic extension clause or right-of-first-refusal up to 10 years.
 
-<table width="100%" bgcolor="#112240">
-<tr><td>
+---
 
-<h2 align="center">📌 Strategic Recommendations</h2>
+## 🛠️ Project Management Toolkit
 
-<ol>
-<li><b>🛡️ Protect the Contingency Fund</b> — Never utilize the ₦5.5M buffer for premature expansions or personal expenses.</li>
-<li><b>💳 Enforce Digital Card Payments Only</b> — POS/bank transfers exclusively; eliminates cash theft and physical security risks.</li>
-<li><b>📜 Airtight Long-Term Lease</b> — Ensure automatic extension clause or right-of-first-refusal up to 10 years.</li>
-</ol>
+<div align="center">
 
-</td></tr>
-</table>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
-
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
-
-<h2>🛠️ Project Management Toolkit</h2>
-
-![Project Management](https://img.shields.io/badge/Project%20Management-WBS%20%7C%20CCB%20%7C%20Scope%20Control-0A192F?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Financial%20Modeling-1E3A8A?style=flat-square)
-![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-Executive%20Support-3B82F6?style=flat-square)
+![Project Management](https://img.shields.io/badge/Project%20Management-WBS%20%7C%20CCB%20%7C%20Scope%20Control-0B192C?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Financial%20Modeling-1E3E62?style=flat-square)
+![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-Executive%20Support-FF6500?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Google%20Workspace%20%7C%20GitHub-4285F4?style=flat-square)
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:3B82F6,100:0A192F&height=3&section=header"/>
+## 👤 Author
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
+<div align="center">
 
-<h2>👤 Author</h2>
+### **Afolabi Wilson**
 
-<h3>Afolabi Wilson</h3>
-<p><b>Data Analyst | Project Manager | Virtual Assistant</b></p>
+**Data Analyst | Project Manager | Virtual Assistant**
 
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://linkedin.com/in/your-profile">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</td></tr>
-</table>
+</div>
 
-<br/>
+---
 
-<table width="100%" bgcolor="#0A192F">
-<tr><td align="center">
+<div align="center">
 
-<h3>⭐ If you find this project valuable, please star the repository!</h3>
+### ⭐ If you find this project valuable, please star the repository!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:1E3A8A,100:3B82F6&height=140&section=footer&text=Clean%20Energy%20%7C%20High%20Yield%20%7C%20Debt-Free%20Future&fontSize=20&fontColor=ffffff&animation=twinkling"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6500,50:1E3E62,100:0B192C&height=120&section=footer&text=Clean%20Energy%20%7C%20High%20Yield%20%7C%20Debt-Free%20Future&fontSize=18&fontColor=ffffff&animation=twinkling)
 
-</td></tr>
-</table>
+</div>
