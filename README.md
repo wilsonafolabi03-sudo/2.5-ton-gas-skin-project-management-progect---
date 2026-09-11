@@ -112,3 +112,130 @@ The **Ikorodu Strategic LPG Distribution Hub** bridges the transition gap betwee
 
 ## 💵 Capital Allocation Breakdown
 
+
+> **🛡️ The ₦5.5M Capital Shield** — Locked in liquid high-yield assets to guarantee smooth bank loan repayments and employee wages during setup or seasonal slowdowns.
+
+---
+
+## 📈 Revenue Engine & Margins
+
+<div align="center">
+
+| Parameter | Value |
+|:---|:---|
+| **Tank Capacity** | 2.5 Metric Tons (2,500 kg) |
+| **Monthly Turnover** | 3 full refills = **7,500 kg/month** |
+| **Wholesale Cost (Depot)** | ₦1,100 / kg |
+| **Retail Price (At Site)** | ₦1,400 / kg |
+| **Protected Gross Margin** | **₦300 / kg** |
+| **Monthly Gross Profit** | **₦2,250,000** |
+| **Monthly OpEx** | ₦500,000 |
+| **Monthly Net Operating Income** | **₦1,750,000** |
+| **Annualized Gross Revenue** | **₦27,000,000 / year** |
+
+</div>
+
+---
+
+## 🏦 Loan Repayment (Reducing Balance Method)
+
+<div align="center">
+
+| Parameter | Detail |
+|:---|:---|
+| **Principal** | ₦20,000,000 |
+| **Interest Rate** | 15% per annum |
+| **Amortization** | 5 Years (60 Months) |
+| **Year 1 Monthly (Peak)** | ~₦480,000 |
+| **Year 3 Monthly** | ~₦410,000 |
+| **Year 5 Monthly (Final)** | ~₦350,000 |
+| **Net Free Cash Flow (Y1)** | **₦1,266,667 / month** |
+
+</div>
+
+> **🛡️ Loan Shield Strategy:** The ₦5.5M contingency fund can independently service the bank loan for **over 11 consecutive months** without personal financial pressure.
+
+---
+
+## 🎯 Target Market & Competitive Advantage
+
+<table>
+<tr>
+<td width="33%">
+
+### 🏠 B2C Target
+Middle-income residential households and estate families along **Ijede** and **Itamaga** roads who value immediate local refueling convenience.
+
+</td>
+<td width="33%">
+
+### 🏪 B2B Target
+Suburban bakeries, laundry outfits, commercial catering networks, and roadside restaurants (**bukas**) consuming high gas volumes daily.
+
+</td>
+<td width="33%">
+
+### ⭐ Value Attraction
+Competitors use **inaccurate, rusty mechanical scales**. Our **calibrated digital dispenser** provides precise filling and transparent billing — building instant brand trust.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚨 Risk Assessment & Mitigation
+
+| Risk | Mitigation Strategy |
+|:---|:---|
+| **Market Price Swings** | Cost-plus pricing model — margins auto-protected as market rates scale |
+| **Internal Staff Fraud** | Unalterable digital dispenser logs + 24/7 remote solar CCTV |
+| **Physical Hazard Risks** | Concrete bollards, automated pressure relief valves, daily earthing tests, high-value fire insurance |
+| **Regulatory Fines** | ₦2M allocated for NMDPRA & Fire Service licensing before commercial opening |
+
+---
+
+## 📌 Strategic Recommendations
+
+1. **🛡️ Protect the Contingency Fund** — Never utilize the ₦5.5M buffer for premature expansions or personal expenses.
+2. **💳 Enforce Digital Card Payments Only** — POS/bank transfers exclusively; eliminates cash theft and physical security risks.
+3. **📜 Airtight Long-Term Lease** — Ensure automatic extension clause or right-of-first-refusal up to 10 years.
+
+---
+
+## 🛠️ Project Management Toolkit
+
+<div align="center">
+
+![Project Management](https://img.shields.io/badge/Project%20Management-WBS%20%7C%20CCB%20%7C%20Scope%20Control-0B192C?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Financial%20Modeling-1E3E62?style=flat-square)
+![Virtual Assistant](https://img.shields.io/badge/Virtual%20Assistant-Executive%20Support-FF6500?style=flat-square)
+![Tools](https://img.shields.io/badge/Tools-Google%20Workspace%20%7C%20GitHub-4285F4?style=flat-square)
+
+</div>
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+### **Afolabi Wilson**
+
+**Data Analyst | Project Manager | Virtual Assistant**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find this project valuable, please star the repository!
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF6500,50:1E3E62,100:0B192C&height=120&section=footer&text=Clean%20Energy%20%7C%20High%20Yield%20%7C%20Debt-Free%20Future&fontSize=18&fontColor=ffffff&animation=twinkling)
+
+</div>
