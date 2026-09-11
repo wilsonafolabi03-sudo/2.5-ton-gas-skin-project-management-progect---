@@ -43,3 +43,72 @@ The **Ikorodu Strategic LPG Distribution Hub** bridges the transition gap betwee
 
 ## 📁 Repository Structure
 
+
+---
+
+## 🔗 Official Project Links (Google Workspace)
+
+<div align="center">
+
+| Resource | Description | Link |
+|:---|:---|:---:|
+| 📊 **Presentation Slide** | Strategic Launch Plan & 5-Year Growth Blueprint | [**Open Deck →**](https://docs.google.com/presentation/d/19WVXb6w-0HYrWV1k7JN1QKlnnmT_D_W6iZkC84GHAi4/edit?usp=sharing) |
+| 📝 **Proposal / Report** | Full Business Proposal & Debt Servicing Framework | [**Open Doc →**](https://docs.google.com/document/d/1thJuQAEHZfAzpDhF0ivFclLA_Ac6bh82eBKN_oeckT4/edit?usp=drive_link) |
+| 📈 **Budget Breakdown** | Itemized Capital Allocation Spreadsheet | [**Open Sheet →**](https://docs.google.com/spreadsheets/d/1nWiFkW_MyUtsM05GLXE1zNz9Zgvf3ljcs8dYo9Kcx-0/edit?usp=sharing) |
+
+</div>
+
+---
+
+## 🎯 Strategic Pillars
+
+<table>
+<tr>
+<td width="50%">
+
+### 📍 Location: Ikorodu Axis
+- **Ikorodu Garage, Ijede Road, Ebute, Itamaga**
+- Lagos State's **fastest-growing residential district**
+- Exceptionally **low market entry costs**
+- New estates emerging monthly → vast demand clusters
+- Low lease structures preserve capital for larger 2.5-Ton skid
+
+</td>
+<td width="50%">
+
+### ⚙️ Operational Model
+- **Digitally monitored** LPG skid station
+- **Cash/PoS upfront** — zero credit bottlenecks
+- **Lean staff model** — operator + security guard
+- **Off-grid solar** — 3.5KVA inverter + lithium banks
+- **24/7 CCTV** — cloud-connected remote auditing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ Work Breakdown Structure (WBS)
+
+<div align="center">
+
+| Phase | Workstream | Key Deliverables |
+|:---:|:---|:---|
+| **1.0** | **Management** | Budgeting, 5-year scheduling, progress reporting pipelines |
+| **2.0** | **Pre-Construction** | Ikorodu land lease signing, soil testing, NMDPRA filings |
+| **3.0** | **Substructure** | Excavating, casting reinforced concrete support pad |
+| **4.0** | **Office Building** | Masonry and roofing for blast-protected control office |
+| **5.0** | **Utility Setup** | Off-grid solar-inverter systems and water pump |
+| **6.0** | **Skid Placement** | Delivery and mechanical anchoring of 2.5-Ton vessel |
+| **7.0** | **Pipes & Meters** | Piping connections and digital calibrator setups |
+| **8.0** | **Security & Gating** | Perimeter fencing, CCTV arrays, crash bollards |
+| **9.0** | **Licensing & Insurance** | DPR certifications, fire insurance policies activated |
+| **10.0** | **Closeout** | First bulk stock, system run checks, retail opening |
+
+</div>
+
+---
+
+## 💵 Capital Allocation Breakdown
+
